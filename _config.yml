@@ -1,0 +1,28 @@
+name: formit
+favicon: null
+layout_spectrum: 0.6708953876513988
+typography_spectrum: 0.2181069110520184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.41638643224723637
+  lightness: 0.6061008153483272
+  saturation: 0.2783407373353839
+  rhythmicContrast: 0.19489345769397914
+purpose: []
